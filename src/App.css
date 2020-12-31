@@ -9,3 +9,17 @@
   height: 15em;
 }
 
+#card-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 600px) {
+  #card-grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+}

@@ -10,6 +10,7 @@ import Slide from '@material-ui/core/Slide';
 import { TransitionProps } from '@material-ui/core/transitions';
 import CompareTable from "./CompareTable"
 
+
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     appBar: {
