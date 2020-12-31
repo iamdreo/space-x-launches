@@ -20,11 +20,12 @@ I wanted the project to be as simple as possible for the user and kind of minimi
 
 While trying to run the space x api, it gaves errors when fetching the entire payload on apollo client so because of the restriction of time decided to use graphwl-client since its a small project and we dont need to much capablities
 
-Given more time, i would have liked to come up with a prettier ui
-improve code quality
-write unit tests
-write better end to end tests
-and more
+* Given more time, i would have liked to come up with a prettier ui
+* improve code quality
+* write unit tests
+* write better end to end tests
+* improve design on smaller devices
+* and more
 
 it was a really interesting project
 
